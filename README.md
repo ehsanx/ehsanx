@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/ehsanx/ehsanx/banner.png "Header")](https://ehsank.com/)
+[![Header](https://raw.githubusercontent.com/ehsanx/ehsanx/main/banner.jpg "Header")](https://ehsank.com/)
 
 <!--
 **ehsanx/ehsanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
